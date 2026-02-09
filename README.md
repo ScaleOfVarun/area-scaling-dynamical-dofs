@@ -15,10 +15,6 @@ appearing in the paper.
 `data/`
 Directory for input data and cached outputs used by the notebook.
 
-**Note:**
-The file `phi4_snapshots.npz` is not included in the repository due to its large file size.
-To reproduce the corresponding figures, please run the relevant cell(s) in area_scaling_num_expt.ipynb, which generate this data automatically and save it locally in the data/ directory.
-
 `figures/`
 Output directory containing the generated figures (PDF format), matching those shown in the manuscript.
 
@@ -28,8 +24,6 @@ Output directory containing the generated figures (PDF format), matching those s
 Open area_scaling_num_expt.ipynb.
 
 Run the notebook cells sequentially.
-
-If a figure depends on `phi4_snapshots.npz`, the notebook will regenerate the data when the appropriate cell is executed.
 
 Figures are saved automatically to the figures/ directory.
 
