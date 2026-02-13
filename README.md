@@ -1,9 +1,9 @@
 # Area-Scaling-of-Dynamical-Degrees-of-Freedom
 
-Jupyter notebook to reproduce the figures and numerical results of the paper “Area-Scaling of Dynamical Degrees of Freedom.”
+Jupyter notebook to reproduce the figures and numerical results of the paper “Area Scaling of Dynamical Degrees of Freedom in Regularised Scalar Field Theory.”
 
 This repository accompanies the manuscript and provides the numerical experiments, data handling, and plotting routines used in the paper.
-(Please add the arXiv/DOI link once available.)
+(https://arxiv.org/abs/2602.09100)
 
 ------------------------
 ## Repository contents
@@ -38,8 +38,8 @@ All dependencies are listed and imported directly in the notebook.
 
 If you use this code, please cite the accompanying paper:
 
-Area-Scaling of Dynamical Degrees of Freedom,
-Varun Kushwaha et al.
-(arXiv / journal reference to be added)
+Area-Scaling of Dynamical Degrees of Freedom in Regularised Scalar Field Theory,
+Oliver Friedrich, Kristina Giesel, and Varun Kushwaha
+(https://arxiv.org/abs/2602.09100)
 
 
