@@ -15,6 +15,8 @@ appearing in the paper.
 `data/`
 Directory for input data and cached outputs used by the notebook.
 
+Note: the data file `phi4_snapshots.npz`, which contains the data used to plot the relative projection error plot (Figure 1(b) of the paper), is not included in this folder due to its large size.
+
 `figures/`
 Output directory containing the generated figures (PDF format), matching those shown in the manuscript.
 
@@ -23,7 +25,7 @@ Output directory containing the generated figures (PDF format), matching those s
 
 Open area_scaling_num_expt.ipynb.
 
-Run the notebook cells sequentially.
+Run the notebook cells sequentially. The cells allow you to generate the data file `phi4_snapshots.npz`, which is required to create Figure 1(b) in the paper. Please run the corresponding data generation cell and save it in the data folder.
 
 Figures are saved automatically to the figures/ directory.
 
