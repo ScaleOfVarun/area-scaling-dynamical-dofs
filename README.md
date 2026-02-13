@@ -1,4 +1,4 @@
-# Area-Scaling-of-Dynamical-Degrees-of-Freedom
+# Area-Scaling-of-Dynamical-Degrees-of-Freedom-in-Regularised-Scalar-Field-Theory
 
 Jupyter notebook to reproduce the figures and numerical results of the paper “Area Scaling of Dynamical Degrees of Freedom in Regularised Scalar Field Theory.”
 
